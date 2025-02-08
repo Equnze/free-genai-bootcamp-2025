@@ -1,5 +1,5 @@
 # Deepseek Powered Assitant Guide
 ## Which Model
-deepseek R!
+deepseek R1
 
 I used the open source deepseek R! model
