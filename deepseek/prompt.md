@@ -58,3 +58,6 @@ Vocabulary Table:
 Clue: “Remember, past tense in polite form uses ～ました. What’s the ます-form of 食べる?”
 
 Structure: “[Time] [Subject] は [Object] を [Verb]。”
+
+
+Student Input: Did you see the raven this morning? They were looking at our garden.
